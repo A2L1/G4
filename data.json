@@ -1,0 +1,133 @@
+{
+    "usertest": {
+        "login": "dXNlcnRlc3Q6MDRmODk5NmRhNzYzYjdhOTY5YjEwMjhlZTMwMDc1NjllYWYzYTYzNTQ4NmRkYWIyMTFkNTEyYzg1YjlkZjhmYg==",
+        "listpassword": []
+    },
+    "Gaby92": {
+        "login": "R2FieTkyOmEyYzk2ZDUxOGYxMDk5YTNiNmFmZTI5ZTQ0MzM0MGY5ZjVmZGYxMjg5ODUzZmMwMzQ5MDg0NDRmMmJjYjg5ODI=",
+        "listpassword": []
+    },
+    "test": {
+        "login": "dGVzdDpkYzkzN2I1OTg5MjYwNGY1YTg2YWM5NjkzNmNkN2ZmMDllMjVmMThhZTZiNzU4ZTgwMTRhMjRjN2ZhMDM5ZTkx",
+        "listpassword": []
+    },
+    "user": {
+        "login": "dXNlcjoyOTQzYTU2N2JjMDViYzY2Y2E2MjAxZGJjNWYwMGJlYzNmNzc0YTQ3YjFiOTQyODlhMmFlOGU3OTgzNGMyMWE1",
+        "listpassword": [
+            {
+                "id": "f3a83982-57c5-4d84-9397-b7dd22b3981b",
+                "url": "te",
+                "username": "te",
+                "password": "gAAAAABlP7XOiTxQprdk3zUiKdr1OE1rpYRgiigQVNmSq0JdXozzaBZhuQ8YHcdxRtuJgR5P4ZlokczdVQZVcbUaGpHBT9SNTw=="
+            },
+            {
+                "id": "7158311a-3dc3-4d36-b105-8b708aeb2104",
+                "url": "test",
+                "username": "test",
+                "password": "gAAAAABlQQvpHt3nHGbMU7rsiDREQ7zmOTm_C0RoKb7huV8lhSO_MRxl9tngCuyK8BcOlpBYhWPqY-OzTFXmpUTN6rjV7IOmzA=="
+            },
+            {
+                "id": "e2e2f573-57e6-4dfa-8b98-e5149542a7a2",
+                "url": "uy",
+                "username": "yu",
+                "password": "gAAAAABlP8Us3bmxvGercGSDBIVKi0QckKmWMJbbp_i6wwr4uUOJkj9xyoDTVAFksi06wpZg3s7fKkthkC-KHQQY5VvbV3YlNg=="
+            },
+            {
+                "id": "73683072-76f5-49ff-96f5-0b1c5b3e6afd",
+                "url": "yt",
+                "username": "yt",
+                "password": "gAAAAABlP8kajShb3iU92c8KbtwesaxYueITwKJeEolL5SgKJXwvy3YCkyZTONmaiVMX694Fzt17EhGqzgUv0Ssv02TSwJ_QbQ=="
+            },
+            {
+                "id": "7747f3f7-cbec-4615-9af2-483c4eeb2d27",
+                "url": "google.com",
+                "username": "adelinou",
+                "password": "gAAAAABlQR3Vbiy5GbW9yUOtHp3gLZaUbVPnwarEQEtES79aFO5Jg2DG3Za3nZ_wrU5jbghk_meLhXZBRI7aBoRuC75_ymzitw=="
+            },
+            {
+                "id": "dd75ee67-5bce-43f8-bbfb-49c15adcd420",
+                "url": "dell.fr",
+                "username": "scoobydoo",
+                "password": "gAAAAABlQR49CScsaXkdbi5mK8S0Aw3b6hhwCPAj51G6aqLKPDqQniIEuIj4e212MZw6a3PFq7uM0uA5LbpUUjUv9_kyo0Pi9vAv-rGMwtJHmRvYC-w6a14="
+            },
+            {
+                "id": "eaef5e53-eb64-43a5-b92d-492397b3bd43",
+                "url": "youtube.com",
+                "username": "adou",
+                "password": "gAAAAABlQSFJFM0FqonPhO9nBnXVwBz9oO0u0yAbZJvQD1nVsPfJO5lFKuZP0-n30zFtX2KDToDS8ziZRZHGA71ca4wnKSboVI0DxY03Jjf6JbBXRzCwMOQ="
+            },
+            {
+                "id": "dac5387d-63ae-4049-9b44-4452dcc2907e",
+                "url": "zerty",
+                "username": "sdfg",
+                "password": "gAAAAABlQSGkjH0-vMYDOmnIdHnTLUDobZedaXIm2WAyzczAq_VkdUE_A1-IMX2U6T-uO52HUzD8h0SP3pSoos40otma5hnfeLST4hH6doaIVlY5Lqf_g8I="
+            },
+            {
+                "id": "7ef6cfa9-69a2-4c41-a3c9-e1e6cde57194",
+                "url": "twitch.tv",
+                "username": "gaby",
+                "password": "gAAAAABlQ2QH3zJ3393T1buAkrq2q6kNP1BwQ7q2OQw05ePvk3F5-pY5pY1hX8S3QRFxQrWsgaFSy1UHLkT5v69tl9FRBCheFmYkpDT9Qwqq3PFHOgmdwe4="
+            },
+            {
+                "id": "afdb7af9-4472-4ceb-ad4d-6cfc3d709c23",
+                "url": "test.tv",
+                "username": "gaby",
+                "password": "gAAAAABlQ2QivhzhbAfyaRBxkH3F_vekazYtg9zeUB9Qr1Iw3lkjmSGgMgEa9WdLYD6QXt_Uto9MqLwwRTZQWqg8YUCuIt6MUQo3BXHa3C7_LyDFcuxL-N0="
+            },
+            {
+                "id": "1b9d487c-2652-47fb-b82d-871583d3b647",
+                "url": "fghjklp",
+                "username": "fghjk",
+                "password": "gAAAAABlQ2RNm2FSBLSqRw0njsL16-4Z4dwbnWDBGy_lx1SCJtYy7U8UujEvuyYCM-ywdQA7amGrX6H8cspE1aWi-rfLR3ZBmwVrzQJdOHH87WfQmfmnDvg="
+            },
+            {
+                "id": "2fb742f8-b313-47c7-bd6c-2ea5c2ffeeff",
+                "url": "facebook",
+                "username": "gaby92",
+                "password": "gAAAAABlQ9niTecQU4OEteChWz1iC-ZEK6uUypWqF3gOR887yKkKsDRw0K9korM7ONeOvk9cyZBtZOcKGtB3MWGzAr2t5n-Zf-1IE_fbkDnFz6n6uNss_-4="
+            },
+            {
+                "id": "1e8dd5c3-8e01-43d7-a4ff-ab53034d8511",
+                "url": "facebook",
+                "username": "SDVUser",
+                "password": "gAAAAABlQ4Sur4b3hB98JKABdwam8YMxF6rHufSD-knHdfV-8Qv_ov1GqPqMiw5v3V4hHP0cGCskAJFhBuJ-07JZsUr5PpPLAg=="
+            },
+            {
+                "id": "3104f092-2dcc-4f5a-9053-3a6b6c586f79",
+                "url": "1",
+                "username": "A",
+                "password": "gAAAAABlQ4TzJw8a7x51QTGMQUoSsCHga2N7Bxb6x35YbQGxSSOrVIAATc39BwTlld-eQlNa9TOHAymBroabLsZqcJbTrm8eqg=="
+            },
+            {
+                "id": "6c6df6de-163b-48bf-b01b-561138e5acb9",
+                "url": "test",
+                "username": "test",
+                "password": "gAAAAABlQ5wnrMVawdCXpRlFganpfbrznPOwfayVQDJEXQMjr1zOOGleTELdXBuMAw52IyN9BLL9X31K1E8ypIBghaCNWOrBfw=="
+            },
+            {
+                "id": "7e804f92-e35d-4ea0-b35a-bdcab39d1584",
+                "url": "test",
+                "username": "user",
+                "password": "gAAAAABlQ7CfRdQ7lS31DVzKU6TJOylWno7QxWuWRFqSoXJTTh2Gzp_ALoWGPGSu8knVtrzRwZcPZk8ktYnQo40ZlJxy8u2TGg=="
+            },
+            {
+                "id": "4224a075-c65d-42f3-90f0-4f2e0b25914a",
+                "url": "sdv.com",
+                "username": "student",
+                "password": "gAAAAABlQ8NF4N--sWglGnYJlov-B36NwFnbqZBCsSN6shE8r380WeADIq5pQOWX9O8QWm6P2vb6BnmOo8rtH3vH3fSTPPi_vAThV1RxkRSlXXE-oysm6m0="
+            },
+            {
+                "id": "ebc328f9-5887-49d5-8bd9-eaac97e191cc",
+                "url": "discord",
+                "username": "razubri",
+                "password": "gAAAAABlQ9osmSK8ZrQV_G-Fvk5VHLjlXeiDJ5kTneohrNmX7YaRdHq3FhmdpWkGrOyygub8Uj0Z8dp7cXtHge0gyj7dar57ZDAegGIYfAHk2b7V_FUxWPw="
+            },
+            {
+                "id": "836baba2-8d5f-42f7-9ab8-10e2514193d4",
+                "url": "discord",
+                "username": "user",
+                "password": "gAAAAABlQ9pHQwbTq_M767mcgatiY2SRHg2vAxnorWHvwP0GRk9_XPsit2Mg10xCqJ8gF6TVBm4ovdOXwIW21TYBSpt886S1MA=="
+            }
+        ]
+    }
+}
